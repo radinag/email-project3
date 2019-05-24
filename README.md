@@ -1,6 +1,6 @@
 # Email Project 
  
-One of the HTML Email Perojects designed with the classic email table layout. 
+One of the HTML Email Projects designed with the classic email table layout. 
 It is responsive and tested with Litmus on most email clients.
 
 ## Additional Info
